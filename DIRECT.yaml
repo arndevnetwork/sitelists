@@ -37,6 +37,7 @@ payload:
   - PROCESS-NAME,mediaget.exe
   - PROCESS-NAME,mediaget_crashpad_handler.exe
   - PROCESS-NAME,mobi.zona
+  - PROCESS-NAME,obs64.exe
   - PROCESS-NAME,org.freedownloadmanager.fdm
   - PROCESS-NAME,org.jsp.wide
   - PROCESS-NAME,org.proninyaroslav.libretorrent
