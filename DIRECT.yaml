@@ -2,6 +2,8 @@ payload:
   - DOMAIN-SUFFIX,obrut.show 
   - GEOSITE, imgur
   - GEOSITE, twitch
+  - PROCESS-NAME,AstrumPlay.exe
+  - PROCESS-NAME,GameCenter.exe 
   - PROCESS-NAME,Azureus.exe
   - PROCESS-NAME,BitComet.exe
   - PROCESS-NAME,BitTorrent.exe
