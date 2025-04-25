@@ -15,7 +15,7 @@ payload:
   - PROCESS-NAME,btweb.exe
   - PROCESS-NAME,com.amnis
   - PROCESS-NAME,com.biglybt.android.client
-  - PROCESS-NAME,com.bitcomet.android"
+  - PROCESS-NAME,com.bitcomet.android
   - PROCESS-NAME,com.bittorrent.client
   - PROCESS-NAME,com.bittorrent.client.pro
   - PROCESS-NAME,com.delphicoder.flud
