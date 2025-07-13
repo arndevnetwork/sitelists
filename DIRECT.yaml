@@ -7,4 +7,4 @@ payload:
   - GEOSITE,imgur
   - PROCESS-NAME,AstrumPlay.exe
   - PROCESS-NAME,GameCenter.exe
-  - PROCESS-NAME,obs64.exe  
+  - PROCESS-NAME,obs64.exe
