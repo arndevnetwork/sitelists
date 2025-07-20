@@ -1,4 +1,5 @@
 payload:
+  - GEOSITE,tiktok
   - DOMAIN-SUFFIX,bunkr.ru
   - DOMAIN-SUFFIX,fapello.su
   - DOMAIN-SUFFIX,habr.com
