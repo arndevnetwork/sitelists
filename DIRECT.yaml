@@ -1,9 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,obrut.show
   - GEOIP,RU
-  - GEOIP,private
   - GEOSITE,category-ru
-  - GEOSITE,private
   - PROCESS-NAME,AstrumPlay.exe
   - PROCESS-NAME,GameCenter.exe
   - PROCESS-NAME,obs64.exe
