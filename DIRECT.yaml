@@ -1,5 +1,7 @@
 payload:
   - DOMAIN-SUFFIX,obrut.show
+  - DOMAIN-SUFFIX,playlist.ttvnw.net
+  - DOMAIN-SUFFIX,ads.twitch.tv
   - GEOIP,RU
   - GEOSITE,category-ru
   - PROCESS-NAME,AstrumPlay.exe
