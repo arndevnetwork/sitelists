@@ -526,3 +526,4 @@ payload:
   - PROCESS-NAME,com.loyaltyplant.partner.subway
   - PROCESS-NAME,ru.reksoft.okey
   - PROCESS-NAME,com.seena.app
+  - PROCESS-NAME,com.polaris.iot
